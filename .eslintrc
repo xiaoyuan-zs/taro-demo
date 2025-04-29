@@ -4,6 +4,6 @@
   "extends": ["taro/vue3"],
   "plugins": ["eslint-plugin-vue"],
   "rules": {
-    "eslint-plugin-vue/multi-word-component-names": "off"
+    "vue/multi-word-component-names": "off"
   }
 }
